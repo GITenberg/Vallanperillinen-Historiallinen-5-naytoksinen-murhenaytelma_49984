@@ -1,4 +1,8 @@
 _repo: Vallanperillinen-Historiallinen-5-naytoksinen-murhenaytelma_49984
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Wuori, Martti
@@ -7,6 +11,8 @@ creator:
     gutenberg_agent_id: '26501'
     url: http://www.gutenberg.org/2009/agents/26501
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49984#Vallanperillinen-Historiallinen-5-naytoksinen-murhenaytelma
 gutenberg_issued: '2015-09-16'
 gutenberg_type: Text
 identifiers:
